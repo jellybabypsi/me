@@ -1,5 +1,5 @@
 sudo su -_brentonhopkins
-mkfs ext4 dev/sda3. 2a
+mkfs ext4 dev/sda3. 2a 
 mkfs ext4 dev/sda3. 2b
 mkfs ext4 dev/sda3. 2c
 mkfs ext4 dev/sda3. 2d
