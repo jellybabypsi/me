@@ -4,7 +4,7 @@ you should not clone me. the fact you have means many heads will roll.
 If your reading this, It means my timer was useless because you should have been doing something else.
 <off>
 git clone https://github.com/sophos/SOREL-20M
-<14>          
+<1>          
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0  
 >file
 git clone http://github/HBMS-0em/pushit 
