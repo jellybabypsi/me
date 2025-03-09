@@ -1,5 +1,6 @@
 sudo su -_brentonhopkins
-<<on>
+sudo get upgrade
+<on>
 Delay:60
 <on>
 Delay:60
