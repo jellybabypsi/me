@@ -1,121 +1,46 @@
-sudo su -_brentonhopkins
-who doesnt love a mirror!
-<^>
-sudo apt-get install ufw
-ufw enable
-ufw default deny incoming
-ufw allow outgoing
+sudo su -_brenton-hopkins
+Hello Baby!..
+Jus wanted you to know,, 
+   Your One in a Million..
+Unique - Like a potato..
+ Anyway Heidelberg gave us 2 beautiful hours.
+we can never forget..
+<off>
+git clone https://github.com/sophos/SOREL-20M
 >file
-sudo apt install flatpak
-sudo apt install gnome-software-plugin-flatpak
-flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
-sudo restart
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+<off>
 >file
-flatpak install flathub net.studio08.xbplay
-git clone http://github.com/hrtywhy/Hanoman
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+<off>
 >file
-git clone https://github.com/asbestomolesto/mindguard
-git clone https://github.com/offensive-security/kali-nethunter
-flatpak install flathub com.sindresorhus.Caprine
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+<off>
 >file
-sudo apt update
-sudo apt install snap
-sudo snap install snapd
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+<off>
 >file
-sudo snap install facebook-webapp
-flatpak install flathub com.google.Chrome
-~$ uname -r
-6.0.0-0.deb11.2-amd64
-flatpak install flathub io.gpt4all.gpt4all
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+<off>
 >file
-sudo resizepart /dev/sda2 10000000
-git clone https://github.com/egodigital/node-google-play-store
-sudo apt-get update
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+git clone https://github.com/jellybabypsi/pushit
+<off>
 >file
-sudo DEBIAN_FRONTEND=noninteractive apt-get install freedombox
-sudo snap install klettres
-apt-cache search xscreensaver*
-sudo apt-get install xscreensaver xscreensaver-data-extra xscreensaver-gl-extra 
->file
-<π>
-sudo apt-get install ufw
-ufw enable
-ufw default deny incoming
-ufw default allow outgoing
->file
-and just because your a good bunch I will give you games..
-sudo apt install flatpak
-sudo apt install gnome-software-plugin-flatpak
->file
-flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
-sudo restart
-flatpak install flathub net.studio08.xbplay
->file
-git clone://github.com/jellybabypsi/reverse-amnessia
-git clone https://github.com/asbestomolesto/mindguard
-git clone https://github.com/offensive-security/kali-nethunter
->file
-flatpak install flathub com.sindresorhus.Caprine
-sudo apt update
-sudo apt install snap
-sudo snap install snapd
->file
-sudo snap install facebook-webapp
-flatpak install flathub com.google.Chrome
-sudo resizepart /dev/sda2 10000000
->file
-git clone https://github.com/egodigital/node-google-play-store
-sudo apt-get update
-sudo DEBIAN_FRONTEND=noninteractive apt-get install freedombox
-sudo snap install klettres
->file
-sudo snap install soundcloud9000
-sudo snap install spotify
-sudo snap install gimp
->file
-git clone https://github.com/ValveSoftware/halflife
-git clone https://github.com/OpenDiablo2/OpenDiablo2
-flatpak install flathub org.goldendict.GoldenGoldenDict
->file
-flatpak install flathub net.sourceforge.artha.Artha
-flatpak install flathub com.github.HypatiaProject.hypatia
-flatpak install flathub io.gitlab.o20.file
->file
-flatpak install flathub org.ardour.Ardour
-flatpak install flathub org.jjazzlab.JJazzLab
->file
-apt-cache search xscreensaver*
-sudo apt-get install xscreensaver xscreensaver-data-extra xscreensaver-gl-extra 
->file
->file
-sudo snap install soundcloud9000
-sudo snap install spotify
-sudo snap install gimp
->file
-git clone https://github.com/ValveSoftware/halflife
-git clone https://github.com/OpenDiablo2/OpenDiablo2
-flatpak install flathub org.goldendict.GoldenGoldenDict
->file
-flatpak install flathub net.sourceforge.artha.Artha
-flatpak install flathub com.github.HypatiaProject.hypatia
-flatpak install flathub io.gitlab.o20.file
->file
-flatpak install flathub org.ardour.Ardour
-flatpak install flathub org.jjazzlab.JJazzLab
->file
-apt-cache search xscreensaver*
-sudo apt-get install xscreensaver xscreensaver-data-extra xscreensaver-gl-extra 
->filesudo apt-get cryptsetup
-sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
-sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda1
->file
-the man You call chat gpt withdrew his support
-of The morgellon race due to your continued
-disrespect of Life. Shame Morgellons Shame
-
-Press: Shift+28
-Press: Down
-Press: 0.21
-Press: Right
-Press: 5. 26
-Press: EXE
